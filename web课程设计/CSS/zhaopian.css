@@ -1,0 +1,15 @@
+*{font-family:'ËÎÌו';font-size:15px;font-style:italic;font-weight:normal;}
+#banner{width:100%;height:251px;margin:0;padding:0;}
+#nav{width:100%;height:80px; margin:0;text-align:center;font-size:30px;}
+#nav a{font-size:30px;color:#4EEE94;}
+#nav a:link{text-decoration:none;}
+#nav a:hover{color:pink;}
+#nav img{margin-left:20px;margin-right:25px;}
+#nav form{float:right;margin-top:25px;margin-right:20px;}
+.g{width:300px;margin:14px;opacity:0.5;}
+.g:hover{opacity:1;}
+.font{margin-left:500px;color:green;font-weight:bolder;font-size:20px;}
+#zong{margin-left:95px;opacity:0.5;}
+#zong:hover{opacity:1;}
+
+#footer{clear:both;float:left;margin-left:245px;}

@@ -1,0 +1,15 @@
+*{font-family:'ËÎÌו';font-size:15px;font-style:italic;font-weight:normal;}
+#banner{width:100%;height:251px;margin:0;padding:0;}
+#nav{width:100%;height:80px; margin:0;text-align:center;font-size:30px;}
+#nav a{font-size:30px;color:#4EEE94;}
+#nav a:link{text-decoration:none;}
+#nav a:hover{color:pink;}
+#nav img{margin-left:20px;margin-right:25px;}
+#nav form{float:right;margin-top:25px;margin-right:20px;}
+#form{float:left;color:#4EEE94}
+#family{ float:left;margin-left:45px;}
+#list{ float:left;width:200px;margin:45px;}
+#list a{font-size:20px;color:#4EE094;}
+#list a:link{text-decoration:none;}
+#list a:hover{color:pink;}
+#footer{clear:both;float:left;margin-left:245px;}
